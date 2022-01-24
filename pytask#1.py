@@ -1,4 +1,5 @@
 # Detect Capital
+# https://leetcode.com/problems/detect-capital/
 
 # User input
 input_word = input("Your word is: ")
