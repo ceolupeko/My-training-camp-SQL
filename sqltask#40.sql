@@ -1,5 +1,5 @@
-#
-#
+# SQL Basics - Monsters using CASE
+# https://www.codewars.com/kata
 
 select *, case
   when t.heads > t.arms or b.tails > b.legs 
